@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  15 - Two Button Lab
 //
-//  Created by Student on 16/07/25.
+//  Created by Nihar Sandhu on 16/07/25.
 //
 
 import UIKit
