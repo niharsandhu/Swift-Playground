@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  16 - Calculator
 //
-//  Created by Student on 17/07/25.
+//  Created by Nihar Sandhu on 17/07/25.
 //
 
 import UIKit
